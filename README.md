@@ -119,7 +119,19 @@ Dalam pembelajaran semester 1 ini maka dipelajari satu bahasa pemograman berupa 
 - JOBSHEET 6  
   
 
-- JOBSHEET 7  
+- JOBSHEET 7
+
+  
+- JOBSHEET 8
+
+  
+- JOBSHEET 9
+
+  
+- JOBSHEET 10
+
+  
+- JOBSHEET 11
   
 
 <br/>  
