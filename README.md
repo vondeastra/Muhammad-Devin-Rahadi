@@ -94,11 +94,14 @@
 
 
 ### Practical learning of Programming Algorithms  
-- JOBSHEET 1
+- JOBSHEET 1 ALGORITMA PEMOGRAMAN
 
- Pada JOBSHEET 1, saya diperkenalkan dalam bahasa pemograman, berupa bahasa pemograman C.    
+ Pada JOBSHEET 1, saya diperkenalkan dalam bahasa pemograman, berupa bahasa pemograman C. Algoritma pemograman terdiri dari dua kata berupa 'Algoritma' dan 'Pemograman' Algoritma merupakan langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan suatu masalah, sedangkan pemograman adalah tindakan atau aktivitas penulisan, menguji, memperbaiki, dan memelihara kode yang dipahami oleh komputer. Pemrograman adalah suatu seni dalam menggunakan satu atau lebih algoritme yang saling berhubungan dengan menggunakan suatu bahasa pemrograman tertentu sehingga menjadi suatu program komputer.
+
+Lalu kita dikenalkan oleh coding, coding merupakan Coding merupakan sebuah aktivitas atau proses untuk menuliskan kode yang harus sesuai dengan aturan penulisan (syntax) tertentu. Lalu ada progamming yang merupakan proses merancang dan membangun program komputer untuk mencapai hasil tertentu. progam tak dapat dibuat tanpa bahasa pemograman, bahasa pemograman memiliki bahasa yang berbeda dengan manusia, kita bisa sebut sebagai bahasa mesin, maka kita perlu paham tiap bahasa pemograman yang akan kita gunakan. Sama halnya saat kita bercerita dengan orang lain maka perlu bahasa yang dapat dimengerti oleh kedua pihak yang saling berkomunikasi. Setiap jenis bahasa pemrograman memiliki aturan penulisan dan sintaks tersendiri. 
+
+Dalam pembelajaran semester 1 ini maka dipelajari satu bahasa pemograman berupa bahasa C. Bahasa C memang bagus untuk memperkenalkan konsep pemrograman bagi pemula yang belum pernah coding. Usia bahasa pemrograman C memang cukup tua, namun masih digunakan hingga saat ini.Bahasa C banyak menginspirasi bahasa-bahasa pemrograman yang lain seperti Java, Javascript, C++, C#, PHP, dsb. Bahasa-bahasa tersebut memiliki sintaks yang hampir sama dengan bahasa C. Bahkan C sampai dijuluki “God’s programming language”. Jadi dengan memahami bahasa C, akan mudah memahami bahasa-bahasa yang lainnya. untuk melaksanakan pemograman kita memerlukan software untuk menjalankan progam bahasa tersebut yang dikenal dengan IDE(Integrated Development Environment).IDE memiliki banyak fitur yang mendukung proses pemrograman. Contohnya adalah DevC++, Microsoft Visual Studio, CodeBlocks, NetBeans, Eclips, dll
   
-
 - JOBSHEET 2
 
  Pada JOBSHEET 2, saya mempelajari tentang tipe data   
