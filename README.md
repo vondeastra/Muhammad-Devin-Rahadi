@@ -105,14 +105,19 @@ Dalam pembelajaran semester 1 ini maka dipelajari satu bahasa pemograman berupa 
 - JOBSHEET 2
 
  Pada JOBSHEET 2, saya mempelajari tentang pemrograman C. dalam bahasa C, kita memiliki beberapa bagian yang diperlukan dalam membuat progam dengan menggunakan bahasa C, diantaranya :
+ 
  A. Sintaks
  Dalam setiap bahasa pemrograman memiliki sintaks tersendiri yang dapat diartikan sebagai aturan penulisan kode pada bahasa pemrograman tersebut. pada progam C sintaks terdiri dari header dibaris awal berguna untuk memanggil dan mengimpor fungsi fungsi yang sudah didefinisikan dalam header, pendefinisian menggunakan #include.
+ 
  b. Main fuction
  lalu ada main fuction yang merupakan fungsi utama yang akan dijallankan pertama kali oleh progam, isi dari fungsi ini diawali dan diakhiri dengan tanda kurung kurawal "{}", didalam sini lah progam atau "statement"
+ 
  c. statement dan semicolons
  didalam main fuction memiliki statement. statement yaitu perintah perintah yang ada didalam fungsi untuk melakukan sesuatu, contohnya statement printf untuk mencetak apa yang kita kirim, selain itu statement harus diakhiri dengan semicolons agar menandakan statement tersebut telah berakhir.
+ 
   d. identifier
   sebuah nama yang digunakan untuk mengidentifikasi variabel, fungsi, atau semua item yang didefinisikan oleh progammer. dalam penulisannya perlu diperhatikan karena bahasa C merupakan bahasa case sensitive dimana besar kecil tulisan, adanya angka ataupun tidak, sangat berpengaruh dan berbeda maknanya.
+  
   e. whitespace
   digunakan untuk mendeskripsikan blank, atab,, spas, barisbaru dan dapat juga berupa komentar. biasanya digunakan untuk memisahkan bagian dari sebuah statement yang memungkinkan kompiler mengidentifikasikan elemen yang satu dengan lainnya dalam sebuah statement.
 
