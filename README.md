@@ -94,7 +94,7 @@
 
 
 ### Practical learning of Programming Algorithms  
-- JOBSHEET 1 ALGORITMA PEMOGRAMAN
+<h3>- JOBSHEET 1 ALGORITMA PEMOGRAMAN</h3>
 
  Pada JOBSHEET 1, saya diperkenalkan berupa algoritma pemograman. Algoritma pemograman terdiri dari dua kata berupa 'Algoritma' dan 'Pemograman' Algoritma merupakan langkah-langkah yang disusun secara sistematis dan logis untuk menyelesaikan suatu masalah, sedangkan pemograman adalah tindakan atau aktivitas penulisan, menguji, memperbaiki, dan memelihara kode yang dipahami oleh komputer. Pemrograman adalah suatu seni dalam menggunakan satu atau lebih algoritme yang saling berhubungan dengan menggunakan suatu bahasa pemrograman tertentu sehingga menjadi suatu program komputer.
 
